@@ -1,0 +1,21 @@
+WindowsFormsControls1014
+
+컨트롤
+MenuStrip : 윈폼창의 메뉴탭
+SplitContainer : 크기 조절할수있는 창 분할
+RadioButton : 한개만 선택할수있는 버튼 생성 ( 같은 카테고리는 패널로 묶어준다)
+CheckBox : 여러개 같이 선택 버튼
+ComboBox : 접어서 보여주는 창 생성 한개만 선택가능
+ListBox : 펼쳐서 보여주는 창 생성 한개나 여러개 모두 선택가능 
+NumericUpDown : 수량 같이 숫자 업다운 하는 박스
+ErrorProvider : 코딩으로 하는 컨트롤
+
+속성
+윈폼 속성
+IsMdiContainer : 부모창 설정
+WindowState : 이 창이 제일처음뜰때의 상태 설정 
+		normal > 내가 디자인한 크기로
+		maximized > 최대크기로 (업무용은 대체로 이걸사용하는게 일반적)
+		minimized > 
+FormBorderStyle : 
+MinimizeBox, MaximizeBox: 창의 최소화 최대화 버튼을 사라지게 하는속성
